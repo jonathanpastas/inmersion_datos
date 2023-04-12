@@ -1,11 +1,9 @@
 # Curso de Inmersión de Datos
 Curso de Alura LATAM de Inmersión de Datos con Python 
 
-![Image text](https://github.com/jonathanpastas/inmersion_datos/blob/main/inmersion.png)
 
 Caso de Estudio: Obtener una estimación del valor de una propiedad en la ciudad de Bogotá según varias características. Para lo cual se debe crear un modelo ML usando el dataset de inmuebles, y complementarlo con otros dataset como el del DANE (Departamento Administrativo Nacional de Estadística de Colombia).
 
-![Image text](https://github.com/jonathanpastas/inmersion_datos/blob/main/img2.png)
 
 Lenguaje Implementado : Python (Ultima versión)
 IDE : Google Colaboratory 
